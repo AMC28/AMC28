@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Anju Mikhael<br><br>💻 Informatics Engineering Graduate<br>🧠 AI Enthusiast<br>🚀 Interested in AI, IoT, Software Development, and Game Development<br>📍 Indonesia<br><br>## 📌 Featured Projects<br><br>* 🔥 RPM Checker IoT (ESP32 + OLED)<br>* 📊 Data Dashboard (Python + Streamlit)<br>* 🤖 AI Text Analyzer<br>* 🎮 Simple Game Project (C++ / Unity)<br><br>---<br><br>
+# Hi there 👋, I'm Anju Mikhael<br><br>💻 Informatics Engineering Graduate<br>🧠 AI Enthusiast<br>🚀 Interested in AI, IoT, Software Development, and Game Development<br>📍 Indonesia<br><br>## 📌 Featured Projects<br><br>* 🌐 AMC Gateway<br>* 🔥 RPM Checker IoT (ESP32 + OLED)<br>* 📊 Data Dashboard (Python + Streamlit)<br>* 🤖 AI Text Analyzer<br>* 🎮 Simple Game Project (C++ / Unity)<br><br>---<br><br>
 
 
 ## 🌐 Socials:
